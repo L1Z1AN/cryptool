@@ -2,7 +2,7 @@
 
 este script encrypta carpetas y archivos al igual que los desencrypta
 
-instala ccrypt y despuea ejecuta el script
+instala ccrypt y despues ejecuta el script
 
 encrypta y desencrypta
 
